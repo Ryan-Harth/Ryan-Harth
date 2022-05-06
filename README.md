@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my page, Im Ryan 👋 
+
+### I am a graduate student in the Data Science program @Northwestern University
 
 <!--
 **JediViking18a/JediViking18a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
