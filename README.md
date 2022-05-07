@@ -20,3 +20,6 @@
   
   
 ## Connect with me on ![this is an image](https://findicons.com/files/icons/1979/social/50/linkedin.png) [LinkedIn](https://www.linkedin.com/in/ryan-m-harth/)
+
+# MY PROJECTS
+### - [NPS Thesis](https://calhoun.nps.edu/handle/10945/61341)
