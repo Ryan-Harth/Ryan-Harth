@@ -1,4 +1,4 @@
-![this is an image](https://www.capgemini.com/wp-content/uploads/2019/05/cloud-devops-banner.jpg)
+![this is an image](https://github.com/JediViking18a/JediViking18a/blob/main/Ryan_GitHub_banner.jpg)
 
 ## < WELCOME TO MY PAGE! >
  
