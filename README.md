@@ -1,4 +1,4 @@
-![this is an image](https://github.com/JediViking18a/JediViking18a/blob/dba45ea914ab4f1906f2984b76cb943849f1c503/Ryan_DevOps.jpg)
+![this is an image](GitHub_Banner.jpg)
 
 ## < WELCOME TO MY PAGE! >
                 
