@@ -1,17 +1,17 @@
 ![this is an image](GitHub_Banner.jpg)
 
 ## < WELCOME TO MY PAGE! >
-                
-## My last professional role was Sr DevSecOps Manager (Deputy Director) for the US Army Special Operations Command - Artificial Intelligence Division
-![this is an image](https://github.com/JediViking18a/JediViking18a/blob/main/Cloud_Agile_Devops.jpeg)
 
-## Currently, I am a in the process of transitioning from active duty in the US Army and looking for my next role in the Cloud/DevOps ecosphere. 
+## I am an experience DevOps & Cloud Solutions Engineer with GovTech domain expertise. 
 
+## Previously, I was Deputy Director & Sr DevSecOps Manager for the US Army Special Operations Command - Artificial Intelligence Division  
 
-            
+## I am passionate about architecting creative solutions that leverage IaC, the cloud, and project/program best practices, to deliver REAL BUSINESS VALUE for customers and stakeholders 
+
 ## I am an AWS Certified Solutions Architect ☁️, Hashicorp Certified: Teraform Associate, and DevOps practitioner ♾️    
-  
-  
+
+## I am a Force Recon Marine, Green Beret Veteran, and ultra runner.
+            
 ## Connect with me on ![this is an image](https://findicons.com/files/icons/1979/social/50/linkedin.png) [LinkedIn](https://www.linkedin.com/in/ryan-m-harth/)
 
 # MY PROJECTS
