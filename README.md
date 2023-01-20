@@ -2,7 +2,7 @@
 
 ## < WELCOME TO MY PAGE! >
 
-## I am an experienced DevOps & Cloud Solutions Engineer with exyensive GovTech domain expertise. 
+## I am an experienced DevOps & Cloud Solutions Engineer with extensive GovTech domain expertise. 
 
 ## Previously, I was Deputy Director & Sr DevSecOps Manager for the US Army Special Operations Command - Artificial Intelligence Division  
 
