@@ -1,4 +1,4 @@
-![this is an image](GitHub_Banner.jpg)
+![this is an image](Hashi Background.jpg)
 
 ## < WELCOME TO MY PAGE! >
 
