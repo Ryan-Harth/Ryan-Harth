@@ -1,4 +1,4 @@
-![this is an image](Hashi Background.jpg)
+![this is an image](https://media.licdn.com/dms/image/D5616AQE4QSyYY8Nuyw/profile-displaybackgroundimage-shrink_350_1400/0/1672924398728?e=1679529600&v=beta&t=jJUQk6io13X4j2IG7-bupiIPxRzNPY5_K0M739dzy_M)
 
 ## < WELCOME TO MY PAGE! >
 
